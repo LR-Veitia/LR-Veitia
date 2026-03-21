@@ -1,5 +1,3 @@
-![Welcome Banner](Gemini_Generated_Image_dashwfdashwfdash.png)
-
 # Hi! I'm Luis Veitia 👋
 
 > **Frontend Engineer | System Architect Mindset** 👾
