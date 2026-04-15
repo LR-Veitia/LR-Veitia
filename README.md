@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&text=LUIS%20VEITIA%20👋&fontSize=70&fontAlignY=40&fontColor=FF007F&animation=twinkling&desc=Fullstack%20Microservices%20Specialist%20|%20gRPC%20&%20Zero-Debt%20Architect&descAlignY=60&descAlign=50" width="100%" />
-
-<br />
-
-I don't just write code; I build **Type-Safe, Scalable, and High-Performance Systems**.  
+I build **Type-Safe, Scalable, and High-Performance Systems**.  
 My mission is to eliminate technical debt before it even happens.
 
 ---
@@ -40,10 +34,8 @@ In every project, I enforce three non-negotiable laws:
 
 ### 📊 Engineering Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=LR-Veitia&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=000000&title_color=FF007F&icon_color=00D4FF&text_color=ffffff" height="170px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LR-Veitia&theme=radical&border_radius=10&hide_border=true&background=000000&sideNums=FF007F&stroke=8A2BE2&fire=FF007F" height="170px" />
-
-<br />
+![Stats](https://github-readme-stats.vercel.app/api?username=LR-Veitia&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=000000&title_color=FF007F&icon_color=00D4FF&text_color=ffffff)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LR-Veitia&theme=radical&border_radius=10&hide_border=true&background=000000&sideNums=FF007F&stroke=8A2BE2&fire=FF007F)
 
 ---
 
@@ -56,8 +48,7 @@ In every project, I enforce three non-negotiable laws:
 ---
 
 ### 📫 Let's build something robust:
-<a href="mailto:lveitia85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/5354754922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://linkedin.com/in/LR-Veitia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lveitia85@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5354754922)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LR-Veitia)
