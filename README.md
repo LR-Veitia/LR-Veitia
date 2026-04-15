@@ -1,26 +1,63 @@
-# Hi! I'm Luis Veitia 👋
+<div align="center">
 
-> **Frontend Engineer | System Architect Mindset** 👾
-> 
-> Focused on Full Stack development, specializing in building scalable and high-performance user interfaces. My approach combines clean design with a solid system architecture.
+<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&text=LUIS%20VEITIA%20👋&fontSize=70&fontAlignY=40&fontColor=FF007F&animation=twinkling&desc=Fullstack%20Microservices%20Specialist%20|%20gRPC%20&%20Zero-Debt%20Architect&descAlignY=60&descAlign=50" width="100%" />
 
----
+<br />
 
-## 🛠 Skills & Technologies
-* **Frontend:** ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC1D3A?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-* **Backend & Data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-* **DevOps & Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📊 Telemetry & Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LR-Veitia&theme=radical&hide_border=true)
+I don't just write code; I build **Type-Safe, Scalable, and High-Performance Systems**.  
+My mission is to eliminate technical debt before it even happens.
 
 ---
 
-## 👨‍💻 System.log("Current_Status")
+### 🧬 Core Philosophy: "Zero-Debt Engineering"
+In every project, I enforce three non-negotiable laws:
 
-* 🔭 **Building:** `lvtestbuilder` (optimizing the architecture).
-* 🌱 **Learning:** CI/CD best practices and test automation.
-* 👯‍♀️ **Collaboration:** Open to Open Source projects and distributed systems.
-* 📫 **Ping me:** Have a project in mind or a technical challenge? Let's talk! ➔ 📧 [Email](mailto:lveitiarojasluisraydel@gmail.com) | 📱 [WhatsApp (+53 54754922)](https://wa.me/5354754922)
+**1. Anti-Any Law:** 100% strict typing in TypeScript. If it's not typed, it's not safe.  
+**2. Hollow Shell Architecture:** Clean separation of business logic and transport layers.  
+**3. Fail-Fast Systems:** Robust initialization and error mapping for 99.9% uptime.
 
+---
+
+### 🛠️ Specialized Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **High-Speed Comm** | ![gRPC](https://img.shields.io/badge/gRPC-FF007F?style=flat-square&logo=grpc&logoColor=white) ![Protobuf](https://img.shields.io/badge/Protobuf-8A2BE2?style=flat-square&logo=google&logoColor=white) ![REST](https://img.shields.io/badge/REST_Bridge-00D4FF?style=flat-square) |
+| **Backend & Arch** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![PHP 8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend Engine** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) |
+| **Data & Security** | ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![PII Shield](https://img.shields.io/badge/PII_Shield-FF007F?style=flat-square) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-8A2BE2?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 🚀 Featured Impact Projects
+
+**[MS-VETURIS](https://github.com/LR-Veitia)** *Rebuilt a legacy REST system into a **gRPC Microservices** architecture with a custom **PII Shield** for secure B2B transactions.*
+
+**[LV-TEST-BUILDER](https://github.com/LR-Veitia)** *Transformed a monolithic PHP system into a dynamic **SPA-like experience** using high-quality Vanilla JS and modern MVC patterns.*
+
+---
+
+### 📊 Engineering Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=LR-Veitia&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=000000&title_color=FF007F&icon_color=00D4FF&text_color=ffffff" height="170px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LR-Veitia&theme=radical&border_radius=10&hide_border=true&background=000000&sideNums=FF007F&stroke=8A2BE2&fire=FF007F" height="170px" />
+
+<br />
+
+---
+
+### 👨‍💻 System.log("Current_Status")
+
+* 🔭 **Focus:** Optimizing distributed systems and GDS integration.
+* 🌱 **Learning:** Advanced Kubernetes orchestration and Smart Contract Security.
+* 💬 **Ask me about:** Why `any` is a bug, and why gRPC is the future of internal APIs.
+
+---
+
+### 📫 Let's build something robust:
+<a href="mailto:lveitia85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5354754922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://linkedin.com/in/LR-Veitia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
